@@ -5,25 +5,41 @@ Preview:
 ![Talent_Mobility_-_Workforce_Insights_Dashboard](Talent_Mobility_&_Workforce_Insights_Dashboard_PNG.png)
 
 Tools Used:
+
 -Power BI
+
 -Power Query
+
 -DAX
+
 -Excel
 
 Metrics:
+
 -Candidate Count
+
 -Job Change Rate
+
 -Average Experience
+
 -Average Training Hours
 
 Skills Demonstrated:
+
 -Data cleaning
+
 -DAX calculated columns
+
 -Custom binning/grouping
+
 -KPI cards
+
 -Interactive slicers
+
 -HR analytics
+
 -Dashboard design
+
 -Business insight generation
 
 Key Findings:
