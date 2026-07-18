@@ -27,7 +27,12 @@ Skills Demonstrated:
 -Business insight generation
 
 Key Findings:
+
 -Job-change rates were highest among candidates with fewer years of work experience.
+
 -Among education levels, candidates classified as "Graduate" exhibited the highest job-change rate.
+
 -Candidates from cities with lower development indexes exhibited higher job-change rates.
+
 -Candidates without relevant experience exhibited higher job-change rates than those with with relevant experience
+
