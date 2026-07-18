@@ -1,4 +1,4 @@
-# Talent_Mobility_-_Workforce_Insights_Dashboard
+# Talent_Mobility_&_Workforce_Insights_Dashboard
 Overview: This Power BI dashboard analyzes factors associated with candidate job-change intent using an HR analytics dataset of approximately 19,000 candidates.
 
 Preview:
